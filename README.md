@@ -1,4 +1,4 @@
-# 🏈 Football Card Collection Web App
+# 🏈 Football Card Collection
 
 This is a **Football Card Collection** developed using **HTML**, **CSS**, and **JavaScript**.  
 The project was created as part of the [FreeCodeCamp.org](https://www.freecodecamp.org/) **JavaScript Algorithms and Data Structures** curriculum.
